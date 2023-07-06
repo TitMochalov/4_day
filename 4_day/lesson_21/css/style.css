@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Staccato";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Staccato Regular"),
+    local("Staccato-Regular"),
+    url("../font/Staccato-Regular.woff2") format('woff2'),
+    url("../font/Staccato-Regular.woff") format('woff'),
+    url("../font/Staccato-Regular.eot") format('eot');
+    font-display: swap;
+}
+
+.text__one {
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
+}
+
+.text__two {
+  font-family: "Staccato";
+  font-weight: 700;
+  font-size: 30px;
+}

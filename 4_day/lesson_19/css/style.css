@@ -1,0 +1,12 @@
+.text{
+  /* margin-top: 20px; */
+  text-indent: 25px;
+  color: rgb(122, 121, 121);
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  /* font-style: italic; */
+  /* text-decoration: overline; */
+  /* text-shadow: 0.5px 0.5px black; */
+}
